@@ -1,0 +1,4 @@
+Credits:
+Vanilla Tweaks by Xisumavoid: https://www.xisumavoid.com/vanillatweaks
+
+This tweak is a modification of the 'Silence Mobs' datapack, re-geared to help with server lag by selectively disable villager AI to eliminate villager AI ticking.
